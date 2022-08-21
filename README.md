@@ -24,10 +24,8 @@ The build tool is included (CSS and JS optimization support).
 
 ## Run build/production version
 
-Run index.html file.
+Run index.html file (dist/index.html).
 You can use the Live server to run index.html.
-
-Location: dist/index.html
 
 ## Configuration
 
