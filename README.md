@@ -1,6 +1,7 @@
-# HTML5 Template + webpack - full version
+# HTML5 Template + webpack (Boilerplate + Build tool)
 
-HTML5 template with CSS, JavaScript, images, and fonts support with CSS and JS optimization (minimizers).
+HTML5 template with CSS, JavaScript, images, and fonts support.
+The build tool is included (CSS and JS optimization support).
 
 ## Prerequisites
 
@@ -32,8 +33,20 @@ Location: dist/index.html
 
 #### npm 
 
+#### JavaScript entry point
+
 Edit package.json file.
 
 Change the entry point here.
 
 ``` "main": "src/js/script.js",```
+
+#### webpack
+
+##### output directory
+
+Edit webpack.config.js file.
+
+Change the output directory here.
+
+```path: path.resolve(__dirname, "dist"),```
