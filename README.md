@@ -31,7 +31,7 @@ You can use the Live server to run index.html.
 
 ### npm 
 
-### JavaScript entry point
+#### JavaScript entry point
 
 Edit package.json file.
 
