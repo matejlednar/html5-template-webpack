@@ -12,7 +12,7 @@ The build tool is included (CSS and JS optimization support).
 
 ```npm install```
 
-##
+## Scripts
 
 ### Run project/server
 
@@ -22,18 +22,18 @@ The build tool is included (CSS and JS optimization support).
 
 ``` npm run build ```
 
-### Run build/production version
+## Run build/production version
 
 Run index.html file.
 You can use the Live server to run index.html.
 
 Location: dist/index.html
 
-### Configuration
+## Configuration
 
-#### npm 
+### npm 
 
-#### JavaScript entry point
+### JavaScript entry point
 
 Edit package.json file.
 
@@ -41,9 +41,9 @@ Change the entry point here.
 
 ``` "main": "src/js/script.js",```
 
-#### webpack
+### webpack
 
-##### output directory
+#### output directory
 
 Edit webpack.config.js file.
 
