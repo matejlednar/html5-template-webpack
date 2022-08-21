@@ -1,11 +1,11 @@
 {
-  "name": "html5-webpack",
+  "name": "html5-template-webpack",
   "version": "1.0.0",
   "description": "",
   "main": "src/js/script.js",
   "scripts": {
     "build": "webpack --mode production",
-    "start": "webpack serve --mode development",    
+    "start": "webpack serve --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
